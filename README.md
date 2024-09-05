@@ -5,10 +5,10 @@ Equipe 3 | Grupo 1 - DemoDay PROA
 
 **Formação do Grupo 1:**
 
-Gustavo Correia    
-Lucas Miranda        
-Luiz      
-Luccas Gabriel     
-Emily Santana     
-Alysson
+Emily Santana
+Alysson   
+Luccas Gabriel
+Luiz
+Gustavo Correia
 Everton     
+Lucas Miranda
